@@ -3,7 +3,7 @@
 ### Hi there folks 👋  
 
 - :books: *I’m currently learning* **Artificial Intelligence, Data Science, Internet of Things, Computer Vision, SQL.**
-- :pencil: *I'm currently working on* **Electronic Projects (Hardware+Software) and My Coding Skills (Python, HTML & CSS, JS)**
+- :pencil: *I'm currently working on* **Electronic Projects (Hardware+Software) and My Coding Skills**
 
 - :telephone_receiver: *How to reach me:*  
 
