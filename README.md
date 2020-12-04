@@ -1,4 +1,5 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social">   ![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 ### Hi there folks 👋  
 
@@ -20,3 +21,6 @@
  :star: [Electronic Technocrat](https://www.youtube.com/c/ElectronicTechnocrat/featured)
 
 ***Python-Projects Repository:-*** <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Electroholmes/Python-Projects">
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
