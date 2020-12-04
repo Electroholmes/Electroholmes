@@ -2,12 +2,10 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social">   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-### Hello, folks! <img src="https://raw.githubusercontent.com/Electroholmes/Electroholmes/master/b9371273ae94a946e92074d1b9696680.gif" width="60px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/Electroholmes/Electroholmes/master/b9371273ae94a946e92074d1b9696680.gif" width="130px">
 
 - :books: *I’m currently learning* **Artificial Intelligence, Data Science, Internet of Things, Computer Vision, SQL.**
 - :pencil: *I'm currently working on* **Electronic Projects (Hardware+Software) and My Coding Skills**
-
-*
 
 - :telephone_receiver: *How to reach me:*  
 
@@ -22,6 +20,10 @@
  :star:  [Instagram- Electronic Technocrat](https://www.instagram.com/official_electronic_technocrat/)
  
  :star: [Electronic Technocrat](https://www.youtube.com/c/ElectronicTechnocrat/featured)
+ 
+ **Technologies and Tools**
+ 
+ ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 
 ***Python-Projects Repository:-*** <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Electroholmes/Python-Projects">
 
