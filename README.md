@@ -1,4 +1,4 @@
-### Hi there folks 👋
+### Hi there folks 👋  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social">
 
 - :books: *I’m currently learning* **Artificial Intelligence, Data Science, Internet of Things, Computer Vision, SQL.**
 - :pencil: *I'm currently working on* **Electronic Projects (Hardware+Software) and My Coding Skills (Python, HTML & CSS, JS)**
@@ -17,3 +17,4 @@
 
 
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social">
