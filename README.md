@@ -1,7 +1,6 @@
 <p><img src="https://raw.githubusercontent.com/Electroholmes/Electroholmes/main/header.png" alt="ni"></p>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social">   ![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social">   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ### Hi there folks 👋  
 
@@ -18,7 +17,7 @@
 
  :star:  [Ninad Ingale](https://twitter.com/NinadIngale3) <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/NinadIngale3?label=Twitter&style=social">
  
- :star:  [Instagram Electronic Technocrat](https://www.instagram.com/official_electronic_technocrat/)
+ :star:  [Instagram- Electronic Technocrat](https://www.instagram.com/official_electronic_technocrat/)
  
  :star: [Electronic Technocrat](https://www.youtube.com/c/ElectronicTechnocrat/featured)
 
@@ -32,3 +31,4 @@
 
 
 
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
