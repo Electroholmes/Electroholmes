@@ -8,7 +8,7 @@
 
 - :telephone_receiver: *How to reach me:*  
 
-:star: <img alt="FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> [FaceBook](https://www.facebook.com/ninad.ingale.5/)  
+:star: [FaceBook](https://www.facebook.com/ninad.ingale.5/)  
 
 :star: [LinkedIn](https://www.linkedin.com/in/ninad-ingale-352008167/)  
 
@@ -23,4 +23,3 @@
 ***Python-Projects Repository:-*** <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Electroholmes/Python-Projects">
 
 
-<a href=”https://twitter.com/Ingale70131855"><img src=”https://img.shields.io/twitter/follow/Ingale70131855?label=Follow&style=social"></a>
