@@ -1,3 +1,5 @@
+<p><img src="https://raw.githubusercontent.com/Electroholmes/Electroholmes/main/header.png" alt="ni"></p>
+
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social">   ![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
@@ -25,6 +27,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Electroholmes)
 
-<p><img src="https://commonmark.org/help/images/favicon.png" alt="ni"></p>
+
+
 
 
