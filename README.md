@@ -4,12 +4,12 @@
 
 - :telephone_receiver: How to reach me:  
 
-:star: [FB](https://www.facebook.com/ninad.ingale.5/ )
+:star: [FaceBook](https://www.facebook.com/ninad.ingale.5/)
 
-:star: **LinkedIn:-**  https://www.linkedin.com/in/ninad-ingale-352008167/  
+:star: [LinkedIn](https://www.linkedin.com/in/ninad-ingale-352008167/)  
 
-:star: **Twitter:-** *[Electronic Technocrat]* (https://twitter.com/Ingale70131855) 
+:star: [Twitter Electronic Technocrat](https://twitter.com/Ingale70131855) 
 
- :star:  *[Ninad Ingale]* (https://twitter.com/NinadIngale3) 
+ :star:  [Ninad Ingale](https://twitter.com/NinadIngale3) 
  
- :star:  **Instagram**:- [Electronic Technocrat] (https://www.instagram.com/official_electronic_technocrat/)
+ :star:  [Instagram Electronic Technocrat](https://www.instagram.com/official_electronic_technocrat/)
