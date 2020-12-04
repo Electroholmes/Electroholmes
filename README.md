@@ -1,16 +1,15 @@
 ### Hi there folks 👋
 
-<!--
-**Electroholmes/Electroholmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 *I’m currently learning* **Artificial Intelligence, Data Science and some amount of coding(Python, HTML & CSS, JS).**
 
-Here are some ideas to get you started:
+- :telephone_receiver: How to reach me:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:star: **Facebook:-** https://www.facebook.com/ninad.ingale.5/  
+
+:star: **LinkedIn:-**  https://www.linkedin.com/in/ninad-ingale-352008167/  
+
+:star: **Twitter:-** *[Electronic Technocrat]* (https://twitter.com/Ingale70131855) 
+
+ :star:  *[Ninad Ingale]* (https://twitter.com/NinadIngale3) 
+ 
+ :star:  **Instagram**:- [Electronic Technocrat] (https://www.instagram.com/official_electronic_technocrat/)
