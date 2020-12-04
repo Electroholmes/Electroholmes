@@ -2,7 +2,7 @@
 
 - 🌱 *I’m currently learning* **Artificial Intelligence, Data Science and some amount of coding(Python, HTML & CSS, JS).**
 
-- :telephone_receiver: How to reach me:  
+- :telephone_receiver: *How to reach me:*  
 
 :star: [FaceBook](https://www.facebook.com/ninad.ingale.5/)
 
