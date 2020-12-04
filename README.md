@@ -2,10 +2,12 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social">   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-### Hi there folks 👋  
+### Hi, there folks 👋  
 
 - :books: *I’m currently learning* **Artificial Intelligence, Data Science, Internet of Things, Computer Vision, SQL.**
 - :pencil: *I'm currently working on* **Electronic Projects (Hardware+Software) and My Coding Skills**
+
+*
 
 - :telephone_receiver: *How to reach me:*  
 
@@ -28,7 +30,6 @@
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Electroholmes&theme=blue-green)
 
+![](https://img.shields.io/badge/<N>-<O>-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
 
-
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+  
