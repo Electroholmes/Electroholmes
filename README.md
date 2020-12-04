@@ -23,3 +23,4 @@
 ***Python-Projects Repository:-*** <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Electroholmes/Python-Projects">
 
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Electroholmes)
