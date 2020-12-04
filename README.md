@@ -4,7 +4,7 @@
 
 - :telephone_receiver: How to reach me:  
 
-:star: **Facebook:-** https://www.facebook.com/ninad.ingale.5/  
+:star: [FB](https://www.facebook.com/ninad.ingale.5/ )
 
 :star: **LinkedIn:-**  https://www.linkedin.com/in/ninad-ingale-352008167/  
 
