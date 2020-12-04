@@ -7,7 +7,7 @@
 
 - :telephone_receiver: *How to reach me:*  
 
-:star: [FaceBook](https://www.facebook.com/ninad.ingale.5/)
+:star: [FaceBook](https://www.facebook.com/ninad.ingale.5/)  https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 
 :star: [LinkedIn](https://www.linkedin.com/in/ninad-ingale-352008167/)  
 
