@@ -1,6 +1,7 @@
 ### Hi there folks 👋
 
-- 🌱 *I’m currently learning* **Artificial Intelligence, Data Science and some amount of coding(Python, HTML & CSS, JS).**
+- :books: *I’m currently learning* **Artificial Intelligence, Data Science, Internet of Things, Computer Vision, SQL.**
+- :pencil: *I'm currently working on* **Electronic Projects (Hardware+Software) and My Coding Skills (Python, HTML & CSS, JS)**
 
 - :telephone_receiver: *How to reach me:*  
 
