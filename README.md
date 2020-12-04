@@ -2,7 +2,7 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social">   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-### Hi, there folks 👋  
+### Hello, folks! <img src="https://raw.githubusercontent.com/Electroholmes/Electroholmes/master/b9371273ae94a946e92074d1b9696680.gif" width="60px">
 
 - :books: *I’m currently learning* **Artificial Intelligence, Data Science, Internet of Things, Computer Vision, SQL.**
 - :pencil: *I'm currently working on* **Electronic Projects (Hardware+Software) and My Coding Skills**
