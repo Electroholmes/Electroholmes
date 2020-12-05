@@ -3,7 +3,7 @@
 
 ![***I am an Electronics Engineer***👨‍🎓](https://pbs.twimg.com/profile_images/1300780507609800704/PW3tGdT6_400x400.jpg)
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social">   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) ![Profile views](https://gpvc.arturio.dev/Electroholmes) <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Electroholmes/Python-Projects?logo=github&style=flat-square"> 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social">   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) ![Profile views](https://gpvc.arturio.dev/Electroholmes) 
 
 **Electronics Engineer with a hell lot of potential to crack subtle and anonymous concepts and always hungry for learning new concepts.**
 
@@ -17,6 +17,14 @@
 ![](https://img.shields.io/badge/Device-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Device-RaspberryPi-informational?style=flat&logo=RaspberryPi&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Device-BeagleBoard-informational?style=flat&logo=BeagleBoard&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 
+**Repositories Commit Analysis:**
+
+**Python-Projects Repo:-** <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Electroholmes/Python-Projects?logo=github&style=flat-square"> 
+
+**Important-Books-and-Stuffs Repo:-** <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/Electroholmes/Important-Books-and-Stuffs?logo=github&style=flat-square">
+
+
+**Hobby-Reading:-** <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/Electroholmes/Hobby-Reading?logo=github&style=flat-square">
 
 - 🔭 I’m currently working on ***Electronic Projects (Hardware+Software) and My Coding Skills*** 
 - 🌱 I’m currently learning ***Basics of Artificial Intelligence, Data Science, Internet of Things, Computer Vision, NLP, Kotlin...*** 
