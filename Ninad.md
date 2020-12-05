@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Ninad Ingale
-#### ***I am an Electronics Engineer***👨‍🎓
+## Hi there 👋, my name is Ninad Ingale
+### ***I am an Electronics Engineer***👨‍🎓
 ![***I am an Electronics Engineer***👨‍🎓](https://pbs.twimg.com/profile_images/1300780507609800704/PW3tGdT6_400x400.jpg)
 
 Electronics Engineer with a hell lot of potential to crack subtle and anonymous concepts and always hungry for learning new concepts.
