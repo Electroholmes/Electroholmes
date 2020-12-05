@@ -5,9 +5,11 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social">   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) ![Profile views](https://gpvc.arturio.dev/Electroholmes) 
 
-Electronics Engineer with a hell lot of potential to crack subtle and anonymous concepts and always hungry for learning new concepts.
+**Electronics Engineer with a hell lot of potential to crack subtle and anonymous concepts and always hungry for learning new concepts.**
 
-Skills: ***PYTHON/ JS / HTML / CSS / SQL***
+Skills: 
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 
 - 🔭 I’m currently working on ***Electronic Projects (Hardware+Software) and My Coding Skills*** 
 - 🌱 I’m currently learning ***Basics of Artificial Intelligence, Data Science, Internet of Things, Computer Vision, NLP, Kotlin...*** 
