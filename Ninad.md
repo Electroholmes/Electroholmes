@@ -1,15 +1,16 @@
 ## Hi there 👋, my name is Ninad Ingale
-### ***I am an Electronics Engineer***👨‍🎓
+### ***I am an Electronics Engineer***👨‍🎓  
 
 ![***I am an Electronics Engineer***👨‍🎓](https://pbs.twimg.com/profile_images/1300780507609800704/PW3tGdT6_400x400.jpg)
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social">   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) ![Profile views](https://gpvc.arturio.dev/Electroholmes) 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social">   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) ![Profile views](https://gpvc.arturio.dev/Electroholmes) <img src="https://raw.githubusercontent.com/Electroholmes/Electroholmes/master/b9371273ae94a946e92074d1b9696680.gif" width="100px"> 
 
 **Electronics Engineer with a hell lot of potential to crack subtle and anonymous concepts and always hungry for learning new concepts.**
 
 Skills: 
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 
 - 🔭 I’m currently working on ***Electronic Projects (Hardware+Software) and My Coding Skills*** 
 - 🌱 I’m currently learning ***Basics of Artificial Intelligence, Data Science, Internet of Things, Computer Vision, NLP, Kotlin...*** 
