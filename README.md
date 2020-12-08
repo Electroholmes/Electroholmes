@@ -30,6 +30,8 @@
 
 **Python-Projects Repo:-** <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Electroholmes/Python-Projects?logo=github&style=flat-square"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Electroholmes/Python-Projects?logo=python">
 
+**Key-Technology-Snippets:-** <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Electroholmes/Key-Technology-Snippets?logo=github&style=plastic">
+
 **Important-Books-and-Stuffs Repo:-** <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/Electroholmes/Important-Books-and-Stuffs?logo=github&style=flat-square">
 
 **Hobby-Reading:-** <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/Electroholmes/Hobby-Reading?logo=github&style=flat-square">
