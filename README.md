@@ -15,7 +15,7 @@
 **Coding Skills:**
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 
 **Devices and Operating Systems:**
 
@@ -33,6 +33,10 @@
 **Key-Technology-Snippets:-** <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Electroholmes/Key-Technology-Snippets?logo=github&style=plastic">
 
 **Electronic Snippets:-** <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Electroholmes/Electronics-Snippets?logo=github&style=flat-square">
+
+**Main-Technology-Fields-Interview-Qs:-**<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/Electroholmes/Main-Technology-Fields-Interview-Qs?logo=github&style=flat-square">
+
+**Programming-Snippets:-** <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Electroholmes/Programming-Snippets?logo=github&style=flat-square">
 
 **Important-Books-and-Stuffs Repo:-** <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/Electroholmes/Important-Books-and-Stuffs?logo=github&style=flat-square">
 
