@@ -12,9 +12,7 @@
 - 😄 Pronouns: **He/Him** 
 - ⚡ Fun fact: **Over 3.8 billion people use the internet today, which is 40% of the world’s population.** 
 
-**Hashnode Blogging Website:**
-
-[Hashnode](https://technophileholmes.hashnode.dev/)
+**Hashnode Blogging Website:** [Hashnode](https://technophileholmes.hashnode.dev/)
 
 **Coding Skills:(Beginner level)**
 
