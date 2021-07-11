@@ -7,8 +7,8 @@
 
 **Electronics Engineer with a hell lot of potential to crack subtle and anonymous concepts and always hungry for learning new concepts.**
 
-- 🔭 I’m currently working on ***Electronic Projects(using Arduino, ESP 8266, Rpi and other microcontrollers)*** 
-- 🌱 I’m currently learning ***Basics of Artificial Intelligence, Image Processing, Cyber Security, Operating Systems...*** 
+- 🔭 I’m currently working on ***Electronic Projects*** 
+- 🌱 I’m currently learning ***Internet of Things, Python, MATLAB, Artificial Intelligence, Image Processing, Cyber Security, Operating Systems...*** 
 - 😄 Pronouns: **He/Him** 
 - ⚡ Fun fact: **Over 3.8 billion people use the internet today, which is 40% of the world’s population.** 
 
