@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is Ninad Ingale
-### ***I am an Electronics Engineer***👨‍🎓  
+### ***I am an Electronics Engineer pursuing my MSc in the University of Birmingham***👨‍🎓  
 
 ![***I am an Electronics Engineer***👨‍🎓](https://user-images.githubusercontent.com/69202211/117689825-c66c3f80-b1d7-11eb-8f7a-00008d871c29.png)
 
@@ -7,8 +7,8 @@
 
 **Electronics Engineer with a hell lot of potential to crack subtle and anonymous concepts and always hungry for learning new concepts.**
 
-- 🔭 I’m currently working on ***Electronic Projects*** 
-- 🌱 I’m currently learning ***Internet of Things, Python, MATLAB, Artificial Intelligence, Image Processing, Cyber Security, Operating Systems...*** 
+- 🔭 I’m currently working on ***Thesis project based on fields like Microfluidics, Acoustics and Image processing.*** 
+- 🌱 I’m currently learning ***Internet of Things, Python, Golang, Artificial Intelligence, Image Processing, Cyber Security and, Operating Systems...*** 
 - 😄 Pronouns: **He/Him** 
 - ⚡ Fun fact: **Over 3.8 billion people use the internet today, which is 40% of the world’s population.** 
 
@@ -16,7 +16,7 @@
 
 **Coding Skills:(Beginner level)**
 
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=Assembly&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=GoAssembly&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 
 **Devices and Operating Systems:**
 
