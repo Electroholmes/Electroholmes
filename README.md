@@ -3,7 +3,7 @@
 
 ![***I am an Electronics Engineer***👨‍🎓](https://user-images.githubusercontent.com/69202211/117689825-c66c3f80-b1d7-11eb-8f7a-00008d871c29.png)
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Electroholmes?style=social">  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) ![Profile views](https://gpvc.arturio.dev/Electroholmes) 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Electroholmes?label=Follow&style=social"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Electroholmes?style=social">  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 **Electronics Engineer with a hell lot of potential to crack subtle and anonymous concepts and always hungry for learning new concepts.**
 
